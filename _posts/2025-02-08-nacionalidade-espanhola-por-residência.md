@@ -130,6 +130,11 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
   - Originais e Traduções da Certidão de Nascimento e do Certificado de Antecedentes Criminais do Brasil. As traduções juramentadas são as folhas impressas dos docs que recebeu digitalmente, caso tenha feito assim.
   - Levar também a folha de Registro de Nascimento (Obtida digitalmente [aqui](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Hoja%20declaratoria%20inscripci%C3%B3n%20nacimiento.pdf)) para que, dessa forma, a Certidão de Nascimento espanhola já seja emitida após a Jura. (Reciba digitalmente em até 2 dias após a Jura).
 
+
+> Obs:<br>
+> Caso você não consiga marcar cita no site, pode fazer um juramento em uma **Notaría**.<br>
+> As notarías tem a vantagem de ter muito mais disponibilidade de dias e horários. Porém, eles cobram, e valores podem chegar a 300€ por pessoa.
+
 ### 4. Após a Jura
 
 - O processo está quase no final. Agora é necessário pegar uma cita para a emissão do DNI e do Passaporte
